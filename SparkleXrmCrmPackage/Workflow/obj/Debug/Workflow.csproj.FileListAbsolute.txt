@@ -1,4 +1,0 @@
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Workflow\bin\Debug\QuoteLineEditor.Workflow.dll
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Workflow\bin\Debug\QuoteLineEditor.Workflow.pdb
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Workflow\obj\Debug\QuoteLineEditor.Workflow.dll
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Workflow\obj\Debug\QuoteLineEditor.Workflow.pdb

@@ -1,5 +1,0 @@
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Workflow\bin\Release\QuoteLineEditor.Workflow.dll
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Workflow\bin\Release\QuoteLineEditor.Workflow.pdb
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Workflow\obj\Release\Workflow.csprojResolveAssemblyReference.cache
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Workflow\obj\Release\QuoteLineEditor.Workflow.dll
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Workflow\obj\Release\QuoteLineEditor.Workflow.pdb

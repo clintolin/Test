@@ -1,9 +1,0 @@
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientHooks.dll
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientHooks.pdb
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\ClientHooks\obj\Debug\ClientHooks.dll
-C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\ClientHooks\obj\Debug\ClientHooks.pdb
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientHooks.dll
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientHooks.pdb
-C:\Projects\CWI\Apps\Test\ClientHooks\obj\Debug\ClientHooks.csprojResolveAssemblyReference.cache
-C:\Projects\CWI\Apps\Test\ClientHooks\obj\Debug\ClientHooks.dll
-C:\Projects\CWI\Apps\Test\ClientHooks\obj\Debug\ClientHooks.pdb

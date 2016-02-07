@@ -1,3 +1,0 @@
-C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientHooks.dll
-C:\Projects\CWI\Apps\Test\ClientHooks\obj\Release\ClientHooks.csprojResolveAssemblyReference.cache
-C:\Projects\CWI\Apps\Test\ClientHooks\obj\Release\ClientHooks.dll
