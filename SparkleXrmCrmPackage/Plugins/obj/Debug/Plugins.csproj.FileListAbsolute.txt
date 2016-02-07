@@ -1,0 +1,17 @@
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\bin\Debug\QuoteLineEditor.Plugins.dll
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\bin\Debug\QuoteLineEditor.Plugins.pdb
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\obj\Debug\QuoteLineEditor.Plugins.dll
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\obj\Debug\QuoteLineEditor.Plugins.pdb
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\Plugins\bin\Debug\SparkleXrm.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\bin\Debug\QuoteLineEditor.Plugins.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\bin\Debug\QuoteLineEditor.Plugins.pdb
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\obj\Debug\QuoteLineEditor.Plugins.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\Plugins\obj\Debug\QuoteLineEditor.Plugins.pdb

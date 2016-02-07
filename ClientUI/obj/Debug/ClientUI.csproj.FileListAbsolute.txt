@@ -1,0 +1,10 @@
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientUI.dll
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientUI.pdb
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\ClientUI\obj\Debug\ClientUI.dll
+C:\Projects\Examples\Sparkle\SparkleXrmSamples\SparkleXrmTemplate\ClientUI\obj\Debug\ClientUI.pdb
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientUI.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientUI.pdb
+C:\Projects\CWI\Apps\Test\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Projects\CWI\Apps\Test\ClientUI\obj\Debug\ClientUI.dll
+C:\Projects\CWI\Apps\Test\ClientUI\obj\Debug\ClientUI.pdb

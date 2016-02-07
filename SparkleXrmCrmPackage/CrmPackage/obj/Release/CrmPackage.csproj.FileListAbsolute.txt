@@ -1,0 +1,7 @@
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\bin\Release\QuoteLineEditor.Plugins.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\bin\Release\QuoteLineEditor.Workflow.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\bin\Release\QuoteLineEditor.Plugins.pdb
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\bin\Release\QuoteLineEditor.Workflow.pdb
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\obj\Release\CrmPackage.csprojResolveAssemblyReference.cache

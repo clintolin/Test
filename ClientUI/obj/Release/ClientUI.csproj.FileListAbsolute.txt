@@ -1,0 +1,3 @@
+C:\Projects\CWI\Apps\Test\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientUI.dll
+C:\Projects\CWI\Apps\Test\ClientUI\obj\Release\ClientUI.csprojResolveAssemblyReference.cache
+C:\Projects\CWI\Apps\Test\ClientUI\obj\Release\ClientUI.dll
